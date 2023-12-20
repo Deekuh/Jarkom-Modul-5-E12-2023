@@ -20,7 +20,7 @@
     - [Config dan Routing CPT](#config-dan-routing-cpt)
 
 ## Topologi
-GNS3
+#GNS3
 ![image](https://github.com/Deekuh/Jarkom-Modul-5-E12-2023/assets/114421539/50335b09-ba06-4616-81b1-966d8ac23e1c)
 
 CPT
